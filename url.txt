@@ -1,1 +1,1 @@
-http://192.168.100.47:3000/
+https://approximate-june-nothing-lol.trycloudflare.com
